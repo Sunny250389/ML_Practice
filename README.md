@@ -1,2 +1,2 @@
-# Test
-Demo test
+The repository is created for practice purpose.
+
